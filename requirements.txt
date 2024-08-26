@@ -1,0 +1,8 @@
+langchain>=0.0.0
+langchain_community>=0.0.0
+tavily-python>=0.0.0
+langchain-groq>=0.0.0
+groq>=0.0.0
+replicate>=0.0.0
+crewai>=0.0.0
+crewai[tools]>=0.0.0

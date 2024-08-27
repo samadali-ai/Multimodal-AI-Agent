@@ -1,4 +1,4 @@
-import replicate
+"""import replicate
 
 def image2text(image_url: str, prompt: str) -> str:
     """This tool is useful when we want to generate textual descriptions from images."""
@@ -12,4 +12,4 @@ def image2text(image_url: str, prompt: str) -> str:
             "temperature": 0.2
         }
     )
-    return "".join(output)
+    return "".join(output)"""

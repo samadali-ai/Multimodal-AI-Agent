@@ -6,3 +6,6 @@ groq>=0.0.0
 replicate>=0.0.0
 crewai>=0.0.0
 crewai[tools]>=0.0.0
+streamlit
+langchain_groq
+crewai
